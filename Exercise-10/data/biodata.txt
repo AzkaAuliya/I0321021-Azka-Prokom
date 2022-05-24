@@ -1,0 +1,6 @@
+Nama: aul
+Umur: 18
+Alamat: Karanganyar
+Nama: azka
+Umur: 19
+Alamat: Kebakkramat
